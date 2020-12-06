@@ -1,0 +1,1 @@
+When the input is perfect, clear, and as per the requirement, then at that time, we can ignore the try-except block.
